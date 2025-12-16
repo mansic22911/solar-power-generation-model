@@ -1,4 +1,4 @@
-# Solar Power Generation Prediction System ☀️⚡
+# Solar Power Generation Prediction System 
 
 This project focuses on predicting solar power generation using machine learning techniques based on historical data. The aim is to analyze patterns in solar energy production and build an accurate predictive model that can help in planning and optimizing energy usage.
 
