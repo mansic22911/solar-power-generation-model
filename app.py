@@ -40,7 +40,7 @@ st.set_page_config(
     layout="wide"
 )
 
-# 🌄 Solar panel + green field background image
+#  Solar panel + green field background image
 set_bg_image(
     "https://images.unsplash.com/photo-1509391366360-2e959784a276"
 )
@@ -70,7 +70,7 @@ def load_model_and_scaler():
 
 model, scaler = load_model_and_scaler()
 
-# 🔥 Get the true feature orders from the saved objects
+#  Get the true feature orders from the saved objects
 if hasattr(scaler, "feature_names_in_"):
     SCALED_FEATURES = list(scaler.feature_names_in_)
 else:
